@@ -13,26 +13,26 @@ https://playdata.io/
 
 
 # Using Language
-JAVA 8
-Python
-JS
-SQL
-HTML
+JAVA 8  
+Python  
+JS  
+SQL  
+HTML  
 
 # Using Tools
-Spring Framework
-Spring JPA
-Oracle DB
-Vue
-Vue CLI
-CSS
-Postman
-ESLint
-Swagger
+Spring Framework  
+Spring JPA  
+Oracle DB  
+Vue  
+Vue CLI  
+CSS  
+Postman  
+ESLint  
+Swagger  
 
 # Recently Learning
-Machine Learning
-Deep Learning
+Machine Learning  
+Deep Learning  
 AWS
 
 <!--
