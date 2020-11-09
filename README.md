@@ -6,8 +6,8 @@
 Programming
 
 # An Educated Academy and Curriculum
-Encore Academy, Pose estimation
-### 인공지능을 활용한 휴먼 포즈 제네레이션 시스템 개발자 양성 과정
+### Encore Academy
+##### 인공지능을 활용한 휴먼 포즈 제네레이션 시스템 개발자 양성 과정
 - 인공지능 영상처리 시스템을 개발하기 위한 Java Progrmming, Python Programming, Database(SQL) 등 프로그래밍 기술 습득
 - 영상처리에 대한 이해를 바탕으로 영상처리, OpenCV 등 학습을 통해 AI기반 패션모델 이미지 데이터 전처리 수행
 - 인공지능 기술을 활용하여 패션모델 이미지 데이터 분석을 수행하기 위해 딥러닝 기초, 이미지 딥러닝 등 학습을 통해 딥러닝을 활용한 이미지 데이터 분석 수행
